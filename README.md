@@ -8,5 +8,6 @@ Attached you will find:
 2) R files for each session. Try opening these in R and doing some of the activities! The R scripts will have the same prefix number as the slides that they go with 
 
 01_ = ggplot and dplyr. Covers chapters 3 and 5 in R4DS
+02_ = workflow and exploratory data analysis (EDA). Covers chapters 4 and 6-8 in R4DS.
 
 check out our meetup page for upcoming R4DS meetups: https://www.meetup.com/rladies-austin/ 
