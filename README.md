@@ -11,4 +11,6 @@ Attached you will find:
 
 02_ = workflow and exploratory data analysis (EDA). Covers chapters 4 and 6-8 in R4DS.
 
+03_ = Data Wrangling in the Tidyverse. Covers chapters tibble, readr, tidyr, dpylr (relational data), stringr, forcats, lubridate. 
+
 check out our meetup page for upcoming R4DS meetups: https://www.meetup.com/rladies-austin/ 
