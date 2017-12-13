@@ -13,4 +13,6 @@ Attached you will find:
 
 03_ = Data Wrangling in the Tidyverse. Covers chapters tibble, readr, tidyr, dpylr (relational data), stringr, forcats, lubridate. 
 
+04_ = Programming, Functions, Vectors and Iteration
+
 check out our meetup page for upcoming R4DS meetups: https://www.meetup.com/rladies-austin/ 
