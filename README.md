@@ -15,4 +15,6 @@ Attached you will find:
 
 04_ = Programming, Functions, Vectors and Iteration
 
+05_ = Modelling! 
+
 check out our meetup page for upcoming R4DS meetups: https://www.meetup.com/rladies-austin/ 
