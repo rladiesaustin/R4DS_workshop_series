@@ -17,4 +17,6 @@ Attached you will find:
 
 05_ = Modelling! 
 
+06_ = Presenting Data with ggplot2 and R Markdown
+
 check out our meetup page for upcoming R4DS meetups: https://www.meetup.com/rladies-austin/ 
